@@ -4,3 +4,10 @@ This directory contains the projects I have worked on during my Introduction to 
 By the end of this course, I will have created a portfolio of data-driven web applications, integrating exploratory data analysis, machine learning models, and LLMs to solve practice problems and commincate findings.
 
 ## Table of Contents
+- [Basic Streamlit App](#basic_streamlit_app)
+    - **What**: This is my first Streamlit web application! It demonstrates how t load data from a CSV file, display a dataframe and apply basic filters
+    - **Why**: This project showcases my ability to create interactive data applications, integrate Python code with a web interface, and provide users with an easy, interactive way to explore datasets.
+      
+- [Tidy Data Project](#TidyData-Project)
+    - **What**: I cleaned and transformed the 2008 Olympic Medalists dataset into a tidy format. Using tidy data principles, I ensured that each variable had its own column and each observation was a single row.
+    - **Why**: This project demonstrates my ability to work with messy real-world datasets, and apply data cleaning and transformation techniques.
