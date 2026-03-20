@@ -32,6 +32,9 @@ Data was pre-processed by:
 - Tidy Data Principles (Wickham): https://vita.had.co.nz/papers/tidy-data.pdf
 
 ## Visual Examples
+<img width="999" height="498" alt="Screenshot 2026-03-20 at 7 02 24 PM" src="https://github.com/user-attachments/assets/98f126f7-8457-4cd4-8e88-1322109a2b01" />
+
+<img width="823" height="575" alt="Screenshot 2026-03-20 at 7 02 55 PM" src="https://github.com/user-attachments/assets/caf7d8c1-91ff-4921-b739-9a96cc002605" />
 
 
 
