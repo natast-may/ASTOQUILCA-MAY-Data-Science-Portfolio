@@ -37,6 +37,7 @@ Find the link here: https://astoquilca-may-data-science-portfolio-7rgymj8fariemm
 6. Explore!
 
 ## Demo:
+<img width="1394" height="632" alt="Screenshot 2026-04-13 at 11 48 10 PM" src="https://github.com/user-attachments/assets/b4671a76-6bcf-4397-8c99-609eae22caed" />
 
 ## Limitations:
 - Only numeric features are used (categorical features are dropped)
