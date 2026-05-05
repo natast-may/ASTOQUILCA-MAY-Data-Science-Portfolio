@@ -3,6 +3,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+import os
 from sklearn.cluster import KMeans, AgglomerativeClustering
 from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler
@@ -30,7 +31,9 @@ data_source = st.sidebar.radio(
 #caching the data helps keep the app fast and prevents reloading the dataset every time the user changes a setting.
 @st.cache_data
 def load_built_in():
-    return pd.read_csv("world_happiness.csv")
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    file_path = os.path.join(current_dir, "world_happiness.csv") # finding absolute path to avoid issues locating the csv
+    return pd.read_csv(file_path)
 
 raw_df = None
 # adding the WHR as a built-in option. 
