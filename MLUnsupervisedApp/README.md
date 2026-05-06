@@ -1,4 +1,4 @@
-# Machine Learning Unsupervised Streamlit App
+# Unsupervised Machine Learning Streamlit App
 ## Project Overview:
 This project is an interactive Streamlit web application designed to explore unsupervised machine learning techniques such as k-means clustering, hierarchical clustering, and principal component analysis (PCA). Users can experiment with the built-in World Happiness Report dataset, or upload their own custom tabular data to discover hidden patterns, groupings, and underlying structures without the need for labeled target variables.
 
